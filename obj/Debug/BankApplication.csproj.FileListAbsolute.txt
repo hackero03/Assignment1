@@ -1,0 +1,48 @@
+C:\Users\Catalin David\Desktop\PS-Ass1\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\Catalin David\Desktop\PS-Ass1\BankApplication\BankApplication\obj\Debug\BankApplication.Properties.Resources.resources
+C:\Users\Catalin David\Desktop\PS-Ass1\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.GenerateResource.Cache
+C:\Users\Catalin David\Desktop\PS-Ass1\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\Catalin David\Desktop\PS-Ass1\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\Catalin David\Desktop\PS-Ass1\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\Catalin David\Desktop\PS-Ass1\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
+C:\Users\Catalin David\Desktop\PS-Ass1\BankApplication\BankApplication\obj\Debug\BankApplication.csprojResolveAssemblyReference.cache
+C:\Users\Catalin David\Desktop\PS-Ass1\BankApplication\BankApplication\obj\Debug\BankApplication.LoginWindow.resources
+C:\Users\Catalin David\Desktop\PS-Ass1\BankApplication\BankApplication\obj\Debug\BankApplication.Presentation.FormAdmin.resources
+C:\Users\Catalin David\Desktop\PS-Ass1\BankApplication\BankApplication\obj\Debug\BankApplication.Presentation.FormClient.resources
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.csprojResolveAssemblyReference.cache
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.LoginWindow.resources
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.Presentation.FormAdmin.resources
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.Presentation.FormClient.resources
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.Properties.Resources.resources
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.GenerateResource.Cache
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\bin\Debug\itextsharp.dll
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\bin\Debug\itextsharp.xtra.dll
+C:\Users\Catalin David\Desktop\BankApplication\BankApplication\bin\Debug\itextsharp.xml
+C:\Users\Catalin David\Desktop\PS-Ass1\BankApplication\BankApplication\bin\Debug\itextsharp.xml
+C:\Users\Adrian\Desktop\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\Adrian\Desktop\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\Adrian\Desktop\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\Adrian\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.LoginWindow.resources
+C:\Users\Adrian\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.Presentation.FormAdmin.resources
+C:\Users\Adrian\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.Presentation.FormClient.resources
+C:\Users\Adrian\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.Properties.Resources.resources
+C:\Users\Adrian\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\Adrian\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\BankApplication\BankApplication\obj\Debug\BankApplication.LoginWindow.resources
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\BankApplication\BankApplication\obj\Debug\BankApplication.Presentation.FormAdmin.resources
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\BankApplication\BankApplication\obj\Debug\BankApplication.Presentation.FormClient.resources
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\BankApplication\BankApplication\obj\Debug\BankApplication.Properties.Resources.resources
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\BankApplication\BankApplication\obj\Debug\BankApplication.csprojResolveAssemblyReference.cache
